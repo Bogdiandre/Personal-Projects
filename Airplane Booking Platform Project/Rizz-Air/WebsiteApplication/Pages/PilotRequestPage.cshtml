@@ -1,0 +1,75 @@
+﻿@page
+@model WebsiteApplication.Pages.PilotRequestPageModel
+@{
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pilot Request Page</title>
+
+    <link rel="stylesheet" href="~/css/Aircraft.css" />
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+
+    <h2>Pilot Request Page</h2>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="StartDate">Start Date:</label>
+            <input type="date" asp-for="StartDate" class="form-control" asp-format="{0:yyyy-MM-dd}" />
+            <span asp-validation-for="StartDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="FinishDate">Finish Date:</label>
+            <input type="date" asp-for="FinishDate" class="form-control" asp-format="{0:yyyy-MM-dd}" />
+            <span asp-validation-for="FinishDate" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @if (Model.AvailableHelicopters != null && Model.AvailableHelicopters.Any())
+    {
+        <h3>Available Helicopters:</h3>
+        <div class="row">
+            @foreach (var helicopter in Model.AvailableHelicopters)
+            {
+                <form method="post" asp-page-handler="CreatePilotRequest" asp-route-helicopterID="@helicopter.AircraftId">
+
+                    <input type="hidden" asp-for="StartDate" />
+                    <input type="hidden" asp-for="FinishDate" />
+
+                    <button type="submit" class="flip-card" onclick="this.form.submit();">
+                        
+                            <div class="flip-card-inner">
+                                <div class="flip-card-front">
+                                    <p class="title">@helicopter.Name</p>
+                                    <p>Price:@helicopter.CalculatePrivateRequest(Model.StartDate,Model.FinishDate)</p>
+                                </div>
+                                <div class="flip-card-back">
+                                    <p class="title">Details</p>
+                                    <p>Age: @helicopter.Age</p>
+                                    <p>Range: @helicopter.Range</p>
+                                </div>
+                            </div>
+                        
+                    </button>
+                </form>
+            }
+        </div>
+    }
+
+
+</body>
+</html>
+
+
+
+

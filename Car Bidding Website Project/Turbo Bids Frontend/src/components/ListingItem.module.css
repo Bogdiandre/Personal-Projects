@@ -1,0 +1,19 @@
+.item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px 0;
+    cursor: pointer;
+}
+
+.item:hover {
+    background-color: #f9f9f9;
+}
+
+h3 {
+    margin: 16px 0 8px;
+}
+
+span {
+    display: block;
+    margin: 4px 0;
+}

@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\UnitTesting\\UnitTesting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj",
+        "projectName": "DomainLibrary",
+        "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj",
+        "packagesPath": "C:\\Users\\Bogdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Bogdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj",
+        "projectName": "LogicLibrary",
+        "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj",
+        "packagesPath": "C:\\Users\\Bogdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\LogicLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj"
+              },
+              "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\UnitTesting\\UnitTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\UnitTesting\\UnitTesting.csproj",
+        "projectName": "UnitTesting",
+        "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\UnitTesting\\UnitTesting.csproj",
+        "packagesPath": "C:\\Users\\Bogdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\UnitTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj"
+              },
+              "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bogdi\\Desktop\\RizzAir Project\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

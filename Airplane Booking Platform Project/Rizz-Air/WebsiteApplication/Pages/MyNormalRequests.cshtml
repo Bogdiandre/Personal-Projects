@@ -1,0 +1,38 @@
+﻿@page
+@model WebsiteApplication.Pages.MyNormalRequestsModel
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Normal Request Page</title>
+
+    <link rel="stylesheet" href="~/css/RentAndRequest.css" />
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+    
+    @if (Model.normalRequestList != null && Model.normalRequestList.Any())
+    {
+        <h2>My Requests
+
+
+        </h2>
+        <div class="card-container">
+        @foreach (var normalRequest in Model.normalRequestList)
+        {
+            <div class="card">
+                @normalRequest.Destination.Name
+            </div>
+        }
+        </div>
+    }
+    else
+    {
+        <h2>You have no requests!</h2>
+    }
+</body>

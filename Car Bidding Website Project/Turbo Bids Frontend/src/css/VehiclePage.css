@@ -1,0 +1,49 @@
+.container-vehicles {
+  display: flex;
+  flex-direction: row;
+  padding-top: 60px;
+  width: 100%;
+}
+
+.left-column, .right-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-column {
+  padding-left: 1rem;
+}
+
+.form-control, .btn-full-width {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.btn-primary:hover, .btn-danger:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .container-vehicles {
+    flex-direction: column;
+  }
+  .left-column, .right-column {
+    flex: none;
+    width: 100%;
+    padding-left: 0;
+  }
+}
+
+.btn-danger {
+  background-color: #D91414;
+  border-color: #D91414;
+}
+
+.btn-primary {
+  background-color: #004AAC;
+  border-color: #004AAC;
+}

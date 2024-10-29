@@ -1,0 +1,17 @@
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\DALLibrary.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\DALLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\DALLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\bin\Release\net6.0\Interfaces.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.csproj.CopyComplete
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\refint\DALLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\DALLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DALLibrary\obj\Release\net6.0\ref\DALLibrary.dll

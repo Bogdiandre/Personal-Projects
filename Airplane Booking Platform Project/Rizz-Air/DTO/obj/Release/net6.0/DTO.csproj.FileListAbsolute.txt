@@ -1,0 +1,15 @@
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\bin\Release\net6.0\DTO.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\bin\Release\net6.0\DTO.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\bin\Release\net6.0\DTO.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\refint\DTO.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\ref\DTO.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\bin\Release\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\bin\Release\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DTO\obj\Release\net6.0\DTO.csproj.CopyComplete

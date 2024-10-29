@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AircrcaftManagerForms\FormAddHelicopter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeManagerForms\FormAddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AircrcaftManagerForms\FormAddPrivateJet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AircrcaftManagerForms\FormAircraftManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DestinationManagerForms\FormDestinationManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AircrcaftManagerForms\FormEditHelicopter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeManagerForms\FormAdPilot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeManagerForms\FormEditManagers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeManagerForms\FormEditPilot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AircrcaftManagerForms\FormEditPrivateJet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeManagerForms\FormEmployeeManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormNotAllowed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPilotMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RequestManagerForms\FormManualRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RequestManagerForms\FormNormalRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RequestManagerForms\FormRentAndPilotRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RequestManagerForms\FormRequestManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserManagerForms\FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

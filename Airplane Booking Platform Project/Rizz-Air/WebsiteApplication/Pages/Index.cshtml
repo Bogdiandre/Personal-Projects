@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<body>
+    <div class="text-center">
+        <h1>Welcome back, @Model.User</h1>
+        @if (Model.HasLicense)
+        {
+            <p>You have a license.</p>
+        }
+        else
+        {
+            <p>You do not have a license.</p>
+        }
+        <img src="~/images/RizzAirLogo.img.png" alt="Logo">
+    </div>
+</body>

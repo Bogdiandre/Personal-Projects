@@ -1,0 +1,33 @@
+﻿@page
+@model WebsiteApplication.Pages.LoginPageModel
+@{
+}
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-6 col-lg-4">
+            <div class="card border-0 shadow">
+                <div class="card-body">
+                    <h5 class="card-title text-center mb-4">Welcome back!</h5>
+                    <form method="post">
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="bi bi-envelope"></i></span>
+                            <input asp-for="@Model.Login.Mail" type="email" class="form-control" id="email" placeholder="Mail" required>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="bi bi-lock"></i></span>
+                            <input asp-for="@Model.Login.Password" type="password" class="form-control" id="password" placeholder="Password" required>
+                            <span class="input-group-text"><i class="bi bi-eye-slash" id="togglePassword"></i></span>
+                        </div>
+                        <div class="mb-3">
+                            <button type="submit" class="btn btn-primary w-100">Login</button>
+                        </div>
+                        <div class="text-center">
+                            <a href="RegisterPage" class="text-decoration-none">Don't have an account?</a>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

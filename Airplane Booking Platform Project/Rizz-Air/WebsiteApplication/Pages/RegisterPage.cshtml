@@ -1,0 +1,61 @@
+﻿@page
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebsiteApplication.Pages.RegisterPageModel
+@{
+}
+
+
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-6 col-lg-4">
+            <div class="card border-0 shadow">
+                <div class="card-body">
+                    <h5 class="card-title text-center mb-4">Register!</h5>
+                    <form method="post">
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="bi bi-envelope"></i></span>
+                            <input asp-for="@Model.User.Email" type="email" class="form-control" id="email" placeholder="Email" required>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="bi bi-envelope"></i></span>
+                            <input asp-for="@Model.User.LastName" type="text" class="form-control" id="lastName" placeholder="LastName" required>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="bi bi-envelope"></i></span>
+                            <input asp-for="@Model.User.FirstName" type="text" class="form-control" id="firstName" placeholder="FirstName" required>
+                        </div>
+                        <div class="input-group mb-3">
+                            <label for="DateOfBirth">Birthday:  </label>
+                            <input type="date" asp-for="@Model.User.DateOfBirth" class="form-control" id="DateOfBirth" placeholder="DateOfBirth" required value="@Model.DateOfBirth.ToString("yyyy-MM-dd")">
+                            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                        </div>
+
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="bi bi-lock"></i></span>
+                            <input asp-for="@Model.User.Password" type="password" class="form-control" id="password" placeholder="Password" required>
+                            <span class="input-group-text"><i class="bi bi-eye-slash" id="togglePassword"></i></span>
+                        </div>
+                        <div class="input-group mb-3">
+                            <label for="Checkbox">License:  </label>
+                            <span class="input-group-text"><i class="bi bi-envelope"></i></span>
+                            <input asp-for="@Model.User.License" type="checkbox" class="form-check" id="license" placeholder="License" required>
+                        </div>
+                        <div class="mb-3">
+                            <button type="submit" class="btn btn-primary w-100">Register</button>
+                        </div>
+                        
+                    </form>
+                    @if(ViewData["Message"] != null)
+                    {
+                        <script type="text/javascript">
+                            window.onload = function ()
+                            {
+                                alert("@ViewData["Message"]");
+                            };
+                        </script>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>

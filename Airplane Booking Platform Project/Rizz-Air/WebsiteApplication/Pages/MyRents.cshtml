@@ -1,0 +1,54 @@
+﻿@page
+@model WebsiteApplication.Pages.MyRentsModel
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Normal Request Page</title>
+
+    <link rel="stylesheet" href="~/css/RentAndRequest.css" />
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+    @if (Model.pilotRequests != null && Model.pilotRequests.Any())
+    {
+        <h2>
+            My Helicopter rents
+
+        </h2>
+        <div class="card-container">
+            @foreach (var pilotRequest in Model.pilotRequests)
+            {
+                <div class="card">
+                    @pilotRequest.Helicopter.Name
+                </div>
+            }
+        </div>
+    }
+
+    @if (Model.rents != null && Model.rents.Any())
+    {
+        <h2>
+            My Rents
+
+        </h2>
+        <div class="card-container">
+            @foreach (var rent in Model.rents)
+            {
+                <div class="card">
+                    @rent.NormalRequest.Destination.Name
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <h2>You have no requests!</h2>
+    }
+
+</body>

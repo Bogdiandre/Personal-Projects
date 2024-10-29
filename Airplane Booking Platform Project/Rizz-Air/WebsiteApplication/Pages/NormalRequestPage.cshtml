@@ -1,0 +1,118 @@
+﻿@page
+@model WebsiteApplication.Pages.NormalRequestPageModel
+@{
+    
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Normal Request Page</title>
+
+    <link rel="stylesheet" href="~/css/Aircraft.css" />
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+
+    <h2>Request Page</h2>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="StartDate">Start Date:</label>
+            <input type="date" asp-for="StartDate" class="form-control" asp-format="{0:yyyy-MM-dd}" />
+            <span asp-validation-for="StartDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="FinishDate">Finish Date:</label>
+            <input type="date" asp-for="FinishDate" class="form-control" asp-format="{0:yyyy-MM-dd}" />
+            <span asp-validation-for="FinishDate" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @if (Model.AvailableAircrafts != null && Model.AvailableAircrafts.Any())
+    {
+        <h3>Available Aircrafts:</h3>
+        <div class="row">
+            @foreach (var aircraft in Model.AvailableAircrafts)
+            {
+                <form method="post" asp-page-handler="CreateNormalRequest" asp-route-aircraftID="@aircraft.AircraftId"  asp-route-destinationID = "@Model.DestinationID">
+
+                <input type="hidden" asp-for="StartDate" />
+                <input type="hidden" asp-for="FinishDate" />
+                
+                <button type="submit" class="flip-card" onclick="this.form.submit();">
+                    
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front">
+                                <p class="title">@aircraft.Name</p>
+                                
+                                @if(!aircraft.CheckIfPrivateJet())
+                                {
+                                    @if(Model.MaxSalaryHelicopter != Model.MinSalaryHelicopter)
+                                      {
+                                        <p>MaxPrice:@aircraft.CalculateMaxPriceForRequest(Model.MaxSalaryHelicopter,Model.Distance)$</p>
+                                        <p>MinPrice:@aircraft.CalculateMinPriceForRequest(Model.MinSalaryHelicopter,Model.Distance)$</p>
+                                    }
+                                    else
+                                    {
+                                        <p>Price:@aircraft.CalculateMaxPriceForRequest(Model.MaxSalaryHelicopter,Model.Distance)$</p>
+                                    }
+                                    @if(aircraft.CalculateHours(Model.Distance) != 0)
+                                    {
+                                        <p>Hours:@aircraft.CalculateHours(Model.Distance) Minutes:@aircraft.CalculateMinutes(Model.Distance)</p>
+                                    }
+                                    else
+                                    {
+                                        <p>Minutes:@aircraft.CalculateMinutes(Model.Distance)</p>
+                                    }
+                                }
+                                else 
+                                {
+                                    @if (Model.MaxSalaryPrivateJet != Model.MinSalaryPrivateJet)
+                                    {
+                                        <p>MaxPrice:@aircraft.CalculateMaxPriceForRequest(Model.MaxSalaryPrivateJet,Model.Distance)$</p>
+                                        <p>MinPrice:@aircraft.CalculateMinPriceForRequest(Model.MinSalaryPrivateJet,Model.Distance)$</p>
+                                    }
+                                    else
+                                    {
+                                        <p>Price:@aircraft.CalculateMaxPriceForRequest(Model.MaxSalaryPrivateJet,Model.Distance)$</p>
+                                    }
+
+                                    @if (aircraft.CalculateHours(Model.Distance) != 0)
+                                    {
+                                        <p>Hours:@aircraft.CalculateHours(Model.Distance) Minutes:@aircraft.CalculateMinutes(Model.Distance)</p>
+                                    }
+                                    else
+                                    {
+                                        <p>Minutes:@aircraft.CalculateMinutes(Model.Distance)</p>
+                                    }
+                                }
+                            </div>
+                            <div class="flip-card-back">
+                                <p class="title">Details</p>
+                                <p>Age: @aircraft.Age years</p>
+                                <p>Range: @aircraft.Range km</p>
+
+                                @if (@aircraft.CheckIfPrivateJet())
+                                {   
+                                    <p>Seats @aircraft.GetSeats()</p>
+                                }
+                            </div>
+                        </div>
+                    
+                </button>
+                </form>
+            }
+        </div>
+    }
+
+
+</body>
+</html>

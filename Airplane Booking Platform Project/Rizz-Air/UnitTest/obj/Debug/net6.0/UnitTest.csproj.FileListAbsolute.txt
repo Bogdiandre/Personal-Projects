@@ -1,0 +1,17 @@
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\UnitTest.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\UnitTest.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\UnitTest.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.csproj.CopyComplete
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\refint\UnitTest.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\UnitTest.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\UnitTest\obj\Debug\net6.0\ref\UnitTest.dll

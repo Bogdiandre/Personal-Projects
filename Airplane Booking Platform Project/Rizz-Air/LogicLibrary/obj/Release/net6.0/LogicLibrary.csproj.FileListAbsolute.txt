@@ -1,0 +1,17 @@
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\LogicLibrary.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\LogicLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\LogicLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\bin\Release\net6.0\Interfaces.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.csproj.CopyComplete
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\refint\LogicLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\LogicLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\LogicLibrary\obj\Release\net6.0\ref\LogicLibrary.dll

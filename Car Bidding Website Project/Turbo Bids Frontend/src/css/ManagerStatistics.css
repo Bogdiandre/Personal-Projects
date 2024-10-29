@@ -1,0 +1,36 @@
+.manager-statistics-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .manager-statistics-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .manager-statistics-container .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .manager-statistics-container .btn-full-width {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #004AAC; /* Example blue color for add button */
+    border-color: #004AAC; /* Same for border */
+  }
+  

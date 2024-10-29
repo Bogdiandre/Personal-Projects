@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "DALLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DomainLibrary": "1.0.0",
+          "LogicLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DALLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DALLibrary.dll": {}
+        }
+      },
+      "DomainLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DomainLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLibrary.dll": {}
+        }
+      },
+      "LogicLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DomainLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LogicLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DALLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DALLibrary/DALLibrary.csproj",
+      "msbuildProject": "../DALLibrary/DALLibrary.csproj"
+    },
+    "DomainLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DomainLibrary/DomainLibrary.csproj",
+      "msbuildProject": "../DomainLibrary/DomainLibrary.csproj"
+    },
+    "LogicLibrary/1.0.0": {
+      "type": "project",
+      "path": "../LogicLibrary/LogicLibrary.csproj",
+      "msbuildProject": "../LogicLibrary/LogicLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "DALLibrary >= 1.0.0",
+      "DomainLibrary >= 1.0.0",
+      "LogicLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bogdi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\WindowsApplication\\WindowsApplication.csproj",
+      "projectName": "WindowsApplication",
+      "projectPath": "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\WindowsApplication\\WindowsApplication.csproj",
+      "packagesPath": "C:\\Users\\Bogdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\WindowsApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bogdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\DALLibrary\\DALLibrary.csproj": {
+              "projectPath": "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\DALLibrary\\DALLibrary.csproj"
+            },
+            "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj": {
+              "projectPath": "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\DomainLibrary\\DomainLibrary.csproj"
+            },
+            "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj": {
+              "projectPath": "C:\\Users\\Bogdi\\Desktop\\rizz-air\\Rizz-Air\\LogicLibrary\\LogicLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

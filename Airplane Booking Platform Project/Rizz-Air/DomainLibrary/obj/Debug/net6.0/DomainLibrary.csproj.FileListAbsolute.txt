@@ -1,0 +1,36 @@
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.deps.json
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\refint\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\ref\DomainLibrary.dll
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.deps.json
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.AssemblyInfo.cs
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\refint\DomainLibrary.dll
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Source\Repos\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\ref\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\bin\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\refint\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\DomainLibrary\obj\Debug\net6.0\ref\DomainLibrary.dll

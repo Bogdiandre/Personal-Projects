@@ -1,0 +1,79 @@
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.FormMainMenu.resources
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.exe
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.deps.json
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.runtimeconfig.json
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DALLibrary.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\Interfaces.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\LogicLibrary.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DALLibrary.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\Interfaces.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\LogicLibrary.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.CopyComplete
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\refint\WindowsForms.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.pdb
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.genruntimeconfig.cache
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\ref\WindowsForms.dll
+C:\Users\Bogdi\Desktop\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.FormEmployee.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.exe
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.runtimeconfig.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\WindowsForms.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DALLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\LogicLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DALLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\Interfaces.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\bin\Debug\net6.0-windows\LogicLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.FormLogin.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.FormMainMenu.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.FormNotAllowed.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.csproj.CopyComplete
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\refint\WindowsForms.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.genruntimeconfig.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\ref\WindowsForms.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.AircraftManagerForms.FormAddHelicopter.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.AircraftManagerForms.FormAddPrivateJet.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.AircraftManagerForms.FormAircraftManager.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.AircraftManagerForms.FormEditHelicopter.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.AircraftManagerForms.FormEditPrivateJet.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.DestinationManagerForms.FormDestinationManager.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.EmployeeManagerForms.FormAddManager.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.EmployeeManagerForms.FormEditManagers.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.EmployeeManagerForms.FormEditPilot.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.EmployeeManagerForms.FormEmployeeManager.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.RequestManagerForms.FormRequestManager.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.UserManagerForms.FormUsers.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.RequestManagerForms.FormManualRequest.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.FormPilotMenu.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.EmployeeManagerForms.FormAdPilot.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.RequestManagerForms.FormRentAndPilotRequests.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Forms.RequestManagerForms.FormNormalRequests.resources
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\WindowsForms\obj\Debug\net6.0-windows\WindowsForms.Properties.Resources.resources

@@ -1,0 +1,39 @@
+.container-vehicles {
+  display: flex;
+  flex-direction: row; /* Keep the flex direction as a row */
+  padding-top: 60px; /* Maintain padding for the header */
+  width: 100%; /* Full width */
+}
+
+.left-column {
+  flex: 1; /* Take up half the space */
+  /* Other styles can remain unchanged */
+}
+
+.right-column {
+  flex: 1; /* Take up the other half */
+  display: flex; /* Use flex to enable internal alignment */
+  flex-direction: column; /* Stack children vertically */
+  padding-left: 1rem; /* Keep the padding on the left */
+}
+
+.form-control, .btn-full-width {
+  width: 100%; /* Full width for inputs and buttons */
+}
+
+/* If you have specific styles for buttons, you can define them here */
+.btn-full-width {
+  /* Styles for full-width buttons */
+}
+
+.btn-danger {
+  background-color: #D91414; /* Example red color for delete button */
+  border-color: #D91414; /* Same for border */
+  /* Additional styles as needed */
+}
+
+.btn-primary {
+  background-color: #004AAC; /* Example blue color for add button */
+  border-color: #004AAC; /* Same for border */
+  /* Additional styles as needed */
+}

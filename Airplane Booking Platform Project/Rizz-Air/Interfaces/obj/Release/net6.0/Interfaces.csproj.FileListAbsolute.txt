@@ -1,0 +1,15 @@
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\bin\Release\net6.0\Interfaces.deps.json
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\bin\Release\net6.0\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\bin\Release\net6.0\Interfaces.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\bin\Release\net6.0\DomainLibrary.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\bin\Release\net6.0\DomainLibrary.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.csproj.CopyComplete
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\refint\Interfaces.dll
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\Interfaces.pdb
+C:\Users\Bogdi\Desktop\RizzAir Project\rizz-air\Rizz-Air\Interfaces\obj\Release\net6.0\ref\Interfaces.dll

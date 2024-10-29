@@ -1,0 +1,267 @@
+.biding-page {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full viewport height */
+}
+
+.images-section {
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.image {
+    width: 70%;
+    margin-right: 20px;
+}
+
+.small-images {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: space-between;
+}
+
+.small-image {
+    width: 100%;
+    margin-bottom: 10px;
+    object-fit: cover;
+}
+
+.details-bidding-section {
+    display: flex;
+    flex: 1; /* Use flex to fill the remaining space */
+    height: 100%; /* Make sure it fills the remaining space */
+}
+
+.vehicle-detail-side {
+    width: 50%;
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+.bidding-side {
+    width: 50%;
+    background-color: #fff; /* White background */
+    padding: 20px;
+}
+
+.bid-input-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.wave-group {
+    position: relative;
+    display: inline-block; /* Change to inline-block */
+    vertical-align: middle; /* Align with button */
+    margin-right: 10px; /* Space between input and button */
+}
+
+.wave-group .input {
+    font-size: 16px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 200px;
+    border: none;
+    border-bottom: 1px solid #515151;
+    background: transparent;
+    color: black; /* Make the text black */
+}
+
+.wave-group .input:focus {
+    outline: none;
+}
+
+.wave-group .label {
+    color: #999;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 5px;
+    top: 10px;
+    display: flex;
+}
+
+.wave-group .label-char {
+    transition: 0.2s ease all;
+    transition-delay: calc(var(--index) * .05s);
+}
+
+.wave-group .input:focus ~ .label .label-char,
+.wave-group .input:valid ~ .label .label-char {
+    transform: translateY(-20px);
+    font-size: 14px;
+    color: #5264AE;
+}
+
+.wave-group .bar {
+    position: relative;
+    display: block;
+    width: 200px;
+}
+
+.wave-group .bar:before,
+.wave-group .bar:after {
+    content: '';
+    height: 2px;
+    width: 0;
+    bottom: 1px;
+    position: absolute;
+    background: #5264AE;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+}
+
+.wave-group .bar:before {
+    left: 50%;
+}
+
+.wave-group .bar:after {
+    right: 50%;
+}
+
+.wave-group .input:focus ~ .bar:before,
+.wave-group .input:focus ~ .bar:after {
+    width: 50%;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.cssbuttons-io-button {
+    background: #004AAC; /* Change to the desired color */
+    color: white;
+    font-family: inherit;
+    padding: 0.35em;
+    padding-left: 1.2em;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 0.9em;
+    border: none;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    box-shadow: inset 0 0 1.6em -0.6em #004AAC; /* Change shadow color to match the button */
+    overflow: hidden;
+    position: relative;
+    height: 2.8em;
+    padding-right: 3.3em;
+    cursor: pointer;
+}
+
+.cssbuttons-io-button .icon {
+    background: white;
+    margin-left: 1em;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.2em;
+    width: 2.2em;
+    border-radius: 0.7em;
+    box-shadow: 0.1em 0.1em 0.6em 0.2em #7b52b9;
+    right: 0.3em;
+    transition: all 0.3s;
+}
+
+.cssbuttons-io-button:hover .icon {
+    width: calc(100% - 0.6em);
+}
+
+.cssbuttons-io-button .icon svg {
+    width: 1.1em;
+    transition: transform 0.3s;
+    color: #7b52b9;
+}
+
+.cssbuttons-io-button:hover .icon svg {
+    transform: translateX(0.1em);
+}
+
+.cssbuttons-io-button:active .icon {
+    transform: scale(0.95);
+}
+
+.flip-button {
+  --col1: #4CAF50;
+  --col2: #4f16ac;
+  --col3: #d8d1e4;
+  position: relative;
+  min-width: 10rem;
+  min-height: 3rem;
+  perspective: 500px;
+  margin-top: 10px; /* Add some space above the flip button */
+  display: inline-block; /* Change to inline-block to match button size */
+  vertical-align: middle; /* Align with the button */
+}
+
+.flip-button .button {
+  appearance: none;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%; /* Ensure the button takes full width of the flip-button container */
+  border-radius: 0.9em;
+  font-size: 17px; /* Match font size with the Place Bid button */
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: var(--col1);
+  border: none;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 1s ease-out .5s;
+  transform-style: preserve-3d;
+}
+
+.flip-button:hover .button {
+  background-color: var(--col2);
+  cursor: pointer;
+  transform: rotateY(180deg) scale(1.5);
+  transition: all .3s ease-out;
+}
+
+.flip-button:hover .button:active {
+  background-color: rgba(81, 23, 173, 0.75);
+  transform: rotateY(180deg) scale(1.45);
+  outline: 10px solid var(--col3);
+  transition: all .1s ease-out;
+}
+
+.flip-button .button::after {
+  content: '';
+  box-shadow: 0px 0px 60px 5px rgba(0, 0, 0, 0.25);
+  display: block;
+  border-radius: 30px;
+  height: 100%;
+  width: 100%;
+  transition: all .3s ease-out .95s;
+}
+
+.flip-button:hover .button::after {
+  box-shadow: 0px 0px 1px 10px rgba(160, 29, 149, 0.15);
+  transition: all .3s ease-out;
+}
+
+.flip-button .text-front,
+.flip-button .text-back {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 0 1.5em;
+  transform: translate(-50%, -50%);
+  backface-visibility: hidden;
+  width: 100%;
+}
+
+.flip-button .text-back {
+  transform: translate(-50%, -50%) rotateY(180deg);
+}

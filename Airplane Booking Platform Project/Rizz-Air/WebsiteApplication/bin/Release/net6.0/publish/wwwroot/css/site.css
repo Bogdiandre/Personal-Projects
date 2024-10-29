@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    /* Set the image as the background */
+    background-image: url('~/images/RizzAirLogo.img.png');
+    /* Adjust background properties for cover and centering */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* Ensure the background image covers the entire viewport */
+    height: 100vh;
+    margin: 0;
+}

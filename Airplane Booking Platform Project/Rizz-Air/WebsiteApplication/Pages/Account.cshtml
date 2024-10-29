@@ -1,0 +1,34 @@
+﻿@page
+@model WebsiteApplication.Pages.AccountModel
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Destination Cards</title>
+
+    
+    <link rel="stylesheet" href="~/css/Account.css" />
+
+    
+</head>
+<body>
+    <div class="input-group">
+        
+        <label class="label">Email:</label>
+        <input class="input" type="text" value="@Model.UserDTO.Email" readonly />
+
+        <label class="label">Last Name:</label>
+        <input class="input" type="text" value="@Model.UserDTO.LastName" readonly />
+
+        <label class="label">First Name:</label>
+        <input class="input" type="text" value="@Model.UserDTO.FirstName" readonly />
+
+
+        <label class="label">License:</label>
+        <input class="input" type="text" value="@Model.UserDTO.License" readonly />
+    </div>
+</body>
+</html>

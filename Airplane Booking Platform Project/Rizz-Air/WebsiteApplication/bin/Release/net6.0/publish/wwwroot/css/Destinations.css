@@ -1,0 +1,32 @@
+﻿.cardDestination {
+    position: relative;
+    width: 11.875em;
+    height: 16.5em;
+    box-shadow: 0px 1px 13px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: all 120ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding: 0.5em;
+    padding-bottom: 3.4em;
+}
+
+    .cardDestination:hover {
+        background: #f0f0f0; /* Adjust the hover background color as needed */
+    }
+
+    .cardDestination .name {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1em; /* Adjust the font size as needed */
+        font-weight: 600;
+        color: #000;
+    }
+
+    .cardDestination .distance {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 0.9em; /* Adjust the font size as needed */
+        color: #000;
+        margin-top: 0.5em; /* Add margin as needed */
+    }

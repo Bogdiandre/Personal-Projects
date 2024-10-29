@@ -1,0 +1,9 @@
+Login Requirement for forms (ADMIN)
+
+User:02bogdi18@gmail.com
+Password:12345
+
+Login Requirement for website (USER WITH LICENSE)
+
+User:02bogdi18@gmail.com
+Password:Password123
